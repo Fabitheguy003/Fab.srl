@@ -1,0 +1,439 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+   
+   
+}
+
+
+h1 {
+    display: inline-block;
+    font-size: 42px;
+    margin-left: -20px;
+    margin-right: 14px;
+    height: 50px;
+    background-color: aqua;
+    padding-left: 90px;
+    position: relative;
+}
+h2 {
+
+    margin-left: 5%;
+   margin-top: 5%;
+   font-size: 38px;
+   position: relative;
+  
+}
+
+h3 {
+
+    margin-left: 70%;
+    margin-top: 5%;
+    font-size: 38px;
+    position: relative;
+
+}
+
+h4 {
+
+    margin-left: 70%;
+    margin-top: 2%;
+    font-size: 38px;
+    position: relative;
+
+
+}
+.header div {
+
+    position: relative;
+    list-style-type: none;
+    float: right;
+    margin-top: 1%;
+    margin-right: 10%;
+    
+}
+
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+    position: relative;
+    
+}
+
+.header div ul {
+    list-style-type: none;
+    position: relative;
+}
+
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 15px;
+    position: relative;
+    
+}
+
+
+a {
+    color: #ffffff;
+    font-size: 28px;
+    text-decoration: underline;
+    position: relative;
+    margin-left: -10%;
+   margin-right: 10%;
+
+}
+
+.vl {
+    border-right: 6px solid black;
+    height: 225px;
+    float: left;
+    margin-left: 20%;
+    margin-right: 2%;
+    position: relative;
+   bottom: 19%;
+}
+
+.vl1 {
+    border-right: 6px solid black;
+    height: 1250px;
+    float: right
+    margin-left: 48%;
+    margin-right: 70.9%;
+    margin-top: 8%;
+    position: relative;
+   
+}
+
+.vl2 {
+    border-right: 6px solid black;
+    height: 120px;
+    float: right
+    margin-left: 48%;
+    margin-right: 70.9%;
+    margin-top: 8%;
+    position: relative;
+    
+    
+}
+
+li {
+ 
+    margin-left: 35px;
+    margin-right: 175px;
+    list-style-type: none;
+    margin-top: -0px;
+    float:right;
+    padding-bottom: 0px;
+    position: relative;
+    
+  
+}
+
+p {
+
+    font-size: 120%;
+    margin-top: 2%;
+    position: relative;
+    margin-bottom: 4%;
+    margin-top: 3%;
+}
+
+main {
+    color: #09243a;
+    font-size: 28px;
+   text-decoration:underline;
+    position: relative;
+    margin-top:-4%;
+}
+
+b{
+
+    text-decoration:underline;
+   
+}
+
+.div .class="box" {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    position: relative;
+    
+  }
+  
+.box .background-img:hover {
+
+    filter: grayscale(0);
+    transform: scale(1.3);
+
+
+}
+
+.container .box1:hover{
+
+    filter: grayscale(0);
+    transform: scale(0.99);
+    
+}
+
+.container .box2:hover{
+
+    filter: grayscale(0);
+    transform: scale(0.99);
+    
+}
+
+.container .box3:hover{
+
+    filter: grayscale(0);
+    transform: scale(0.99);
+
+}
+
+.container .box4:hover{
+
+    filter: grayscale(0);
+    transform: scale(0.99);
+    
+}
+
+.container .box5:hover{
+
+    filter: grayscale(0);
+    transform: scale(0.99);
+  
+}
+.container{
+    position: relative;
+    width: 1200px;
+    height: 300px;
+    margin: 240px auto;
+    background-image: url('image.png');
+    position: relative;
+}
+.container .box1{
+
+    position: relative;
+    width: 1033px;
+    height: 700px;
+    border: 5px red solid;
+    float: right;
+    margin: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    margin-top: -135%;
+    margin-right: -79px;
+    filter: brightness(70%);
+    filter: contrast(60%);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.container .box2{
+
+    position: relative;
+    width: 500px;
+    height: 200px;
+    border: 5px orange solid;
+    float: left;
+    margin: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    margin-top: -75%;
+    margin-left: 20.5%;
+    filter: brightness(70%);
+    filter: contrast(60%);
+}
+
+.container .box3{
+
+    position: relative;
+    width: 500px;
+    height: 200px;
+    border: 5px rgb(255, 84, 149) solid;
+    float: left;
+    margin: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    margin-top: -75%;
+    margin-left: 65.10%;
+    filter: brightness(70%);
+    filter: contrast(60%);
+}
+
+
+.container .box4{
+
+    position: relative;
+    width: 500px;
+    height: 200px;
+    border: 5px aqua solid;
+    float: left;
+    margin: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    margin-top: -55%;
+    margin-left: 20.5%;
+    filter: brightness(70%);
+    filter: contrast(60%);
+}
+
+.container .box5{
+
+    position: relative;
+    width: 500px;
+    height: 200px;
+    border: 5px blue solid;
+    float: left;
+    margin: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    margin-top: -55%;
+    margin-left: 65.10%;
+    filter: brightness(70%);
+    filter: contrast(60%);
+   
+}
+
+
+
+.text-block {
+
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+    background-color: crimson;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    float: left;
+    margin-top: 560px;
+    width: 220px;
+    font-size: 20px;
+  
+   
+}
+    
+
+.text-block1 {
+
+    position: relative;
+    bottom: 20px;
+    right: 10px;
+    background-color: rgb(147, 20, 220);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    float: left;
+    margin-top: 100px;
+   
+}
+
+.text-block2 {
+
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+    background-color: rgb(245, 72, 29);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    float: left;
+    margin-top: 100px;
+}
+
+.text-block3 {
+
+   
+    bottom: 20px;
+    right: 20px;
+    background-color: rgb(15, 126, 0);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    float: left;
+    margin-top: 100px;
+    position: relative;
+}
+
+.text-block4 {
+
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+    background-color: rgb(255, 8, 8);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    float: left;
+    margin-top: 100px;
+    position: relative;
+    position: relative;
+   
+}
+
+body img {
+
+
+    height: 150px;
+    width:100%;
+    margin-top: -1%;
+    position: relative;
+}
+
+footer{
+
+    margin-top: -28%;
+    position: relative;
+    text-align: center;
+}
+
+.p4 {
+
+    margin-left: 6%;
+    font-size: 120%;
+}
+
+.box1{
+    
+    background-image: url(../thumbnail-canada-is-named-the-number-one-country-in-the-world-in-a-2021-best-countries-report.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 2;
+  
+   
+    
+    
+}
+
+.box2 {
+
+    background-image: url(../2\ \(2\).jpg);
+    position: relative;
+
+}
+
+.box3 {
+
+    background-image: url(../thumbnail-canada-is-named-the-number-one-country-in-the-world-in-a-2021-best-countries-report.jpg);
+    position: relative;
+}
+
+.box4{
+
+    background-image: url(../2\ \(3\).jpg);
+    position: relative;
+
+}
+
+.box5 {
+
+    background-image: url(../2\ \(4\).jpg);
+    position: relative;
+
+}
